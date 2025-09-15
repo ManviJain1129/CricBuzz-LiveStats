@@ -1,7 +1,7 @@
-streamlit==1.29.0          # For building the web app
-requests==2.31.0           # For API requests to Cricbuzz
-pandas==2.0.3              # For data manipulation
-SQLAlchemy==2.0.19         # For database connection and ORM
-mysql-connector-python==8.0.33  # If using MySQL database connection
-numpy==1.24.4              # Often used with pandas for calculations
-python-dotenv==1.0.0       # Optional, for managing environment variables (e.g., API keys)
+streamlit==1.29.0
+requests==2.31.0
+pandas==2.0.3
+SQLAlchemy==2.0.19
+mysql-connector-python==8.0.33
+numpy==1.24.4
+python-dotenv==1.0.0
